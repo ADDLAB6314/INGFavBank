@@ -85,12 +85,12 @@
 	</dependencies>
 <distributionManagement>
     <repository>
-        <id>central</id>
+        <id>artifactory</id>
         <name>ip-172-31-38-177.ap-south-1.compute.internal-releases</name>
         <url>http://13.233.196.74:8081/artifactory/SampleRepo</url>
     </repository>
     <snapshotRepository>
-        <id>snapshots</id>
+        <id>artifactory</id>
         <name>ip-172-31-38-177.ap-south-1.compute.internal-snapshots</name>
         <url>http://13.233.196.74:8081/artifactory/SampleRepo</url>
     </snapshotRepository>
